@@ -15,7 +15,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/alibaba/transmittable-thread-local)](https://github.com/alibaba/transmittable-thread-local/issues)
 [![GitHub Contributors](https://img.shields.io/github/contributors/alibaba/transmittable-thread-local)](https://github.com/alibaba/transmittable-thread-local/graphs/contributors)
 
-📖 English Documentation | [📖 中文文档](README.md)
+📖 English Documentation 
 
 ----------------------------------------
 
